@@ -1,9 +1,5 @@
 # Hi there, I'm [Fatkhur Rizky]! 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[USERNAME-KAMU]&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
 ### 💫 About Me
 - 🌱 I’m currently learning **Fullstack Development**
 - 📫 How to reach me: **[hito96277@gmail.com]**
