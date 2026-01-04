@@ -1,4 +1,4 @@
-# Hi there, I'm [Fatkhur Rizky.H]! 👋
+# Hi there, I'm [Fatkhur Rizky]! 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=[USERNAME-KAMU]&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
