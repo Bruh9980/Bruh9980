@@ -1,4 +1,4 @@
-# Hi there, I'm [Fatkhur Rizky]! 👋
+# Hi im Bruh_998! 👋
 
 ### 💫 About Me
 - 🌱 I’m currently learning **Fullstack Development**
