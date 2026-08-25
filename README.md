@@ -1,14 +1,27 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Banner Utama ala Game UI -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1MWI4ajN4aXF3aGZocnlydm50M2FveTNtZHM2NGlqN3B2ODVucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R16W7SvKPsJiEGYy/giphy.gif" width="100%" alt="Banner" />
+  
+  # ⚡ TEYVAT SYSTEM INTERFACE // TRAVELER PROFILE ⚡
+  *“To take back everything, you must first build everything from the ground up.”*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bruh9980&label=Profile%20views&color=0e75b6&style=flat" alt="bruh9980" /> </p>
+  [![Profile Views](https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=00f2fe&style=for-the-badge&label=TRAVELER+VISITS)](https://github.com/USERNAME_GITHUB_KAMU)
+  [![GitHub Streak](https://img.shields.io/badge/ADVENTURE_RANK-60-orange?style=for-the-badge&logo=genshinimpact)](https://github.com/USERNAME_GITHUB_KAMU)
+  [![GitHub Followers](https://img.shields.io/github/followers/USERNAME_GITHUB_KAMU?style=for-the-badge&color=blue&logo=github)](https://github.com/USERNAME_GITHUB_KAMU/followers)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 📜 [ CHARACTER STATUS & LORE ]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruh9980&show_icons=true&locale=en" alt="bruh9980" /></p>
+<table align="center">
+<tr>
+<td width="50%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bruh9980&" alt="bruh9980" /></p>
+```yaml
+Name        : Traveler
+Class       : Full-Stack Dev & 3D Asset Artist
+Element     : Anemo / Electro (Adaptable)
+World Level : 8 (Production Ready)
+Mora        : 9,999,999+ Lines of Code
+Status      : Online & Coding...
