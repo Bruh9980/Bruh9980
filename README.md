@@ -111,12 +111,12 @@ Hi, I'm <a href="https://github.com/Bruh9980"> Horus </a>
 
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Bruh9980&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
- </br>
-  </br>
- <img src ="https://github-readme-streak-stats.herokuapp.com?user=Bruh9980&theme=darcula&hide_border=true&background=FFFFFF00">
- </br> </br>
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruh9980&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,tex,css">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bruh9980&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Bruh9980&theme=darcula&hide_border=true&background=00000000" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruh9980&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,tex,css" />
 </p>
      
   </td>
