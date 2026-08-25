@@ -20,7 +20,7 @@ Hi, I'm <a href="https://github.com/Bruh9980"> Horus </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
 
 
-<img align="left" src="[https://tenor.com/id/view/genshin-impact-sandrone-cross-popping-veins-marionette-fatui-harbinger-gif-16776285422676968539]" width="265" height="270" />
+<img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZuYjZ3Y3Vlemd6Yng4MmQ3NTlmZ3pscTB4dXhxZDRsdTN2M21sZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3D2q13Yak3cs5rxBaN/giphy.gif" width="265" height="270" />
 
 
 <!---- <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> <i><small>About me</small></i> --->
