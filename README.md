@@ -34,7 +34,7 @@ Hi, I'm <a href="https://github.com/Bruh9980"> Horus </a>
 > I am a Indie Game developer 💻
 > I am a Self-taught learner  📚 - East java | Indonesian
 > I have a strong interest in Data management and software engineer 📝
-> Working on Deep Learning & Machine Learning 🔭
+> Working on Deep Learning & Software Learning 🔭
 > Learning about fullstack developement, and mobile application development 👨‍💻 
 > Interested in Full Stack Machine Learning Application development 🚩
 
