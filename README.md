@@ -124,7 +124,9 @@ Hi, I'm <a href="https://github.com/Bruh9980"> Horus </a>
 </table>
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/Bruh9980/Bruh9980/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruh9980&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
 
 
 <br>
