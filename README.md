@@ -1,39 +1,45 @@
-# Hi im Bruh_998! 👋
+class ReadMe:
+    def __init__(self, username="israelias", year=2020):
+        self.username = username
+        self.name = 'Joem Elias Sanez'
+        self.education = {
+            'programming': ['Full Stack Software Development', 'Code Institute'],
+            'architecture': ['Master of Architecture', 'Columbia University'],
+            'art': ['Bachelor of Fine Arts', 'Otis College of Art and Design']
+        }
+        self.employment = {
+            'developer': ['company', 'city'],
+            'architect': ['Foster + Partners', ['Singapore', 'New York']],
+            'designer': ['Herzog & de Meuron', ['New York', 'Basel']]
+        }
 
-### 💫 About Me
-- 🌱 I’m currently learning **Fullstack Development**
-- 📫 How to reach me: **[hito96277@gmail.com]**
+    def doing(self, now=2020):
+        today = self.year
 
----
+        if now < today:
+            experience = self.employment['architect']
+            return """
+            I was a design architect with {large_firms} in {big_cities}.
+            """.format(large_firms=experience[0], big_cities=experience[1])
 
-### 🛠 Tech Stack & Tools
+        elif now = today:
+            dream = self.education['programming']
+            return """
+            I am currently learning {code} at {code_institute}.
+            """.format(code=dream[0], code_institute=dream[1])
 
-#### 🌐 Languages
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+        elif now > today:
+            goal = self.employment['developer']
+            return """
+            I am eager to collaborate with {teams} on {projects}.
+            """.format(teams=goal[0], projects='software development')
+        else:
+            return """
+            ### Hi there 👋
+            """
+        
+    def collaborate(self, role, organization, location):
+        opportunity = self.employment
+        opportunity[role] = [organization, location]
 
-#### 🎨 Frontend & Backend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### 🚀 Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=[USERNAME-KAMU]&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-KAMU]&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</p>
-
-<br/><br/><br/><br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME-KAMU]&theme=tokyonight" alt="GitHub Streak" width="100%" />
-</p>
+me = ReadMe(2020)
