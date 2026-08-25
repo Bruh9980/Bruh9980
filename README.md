@@ -20,7 +20,7 @@ Hi, I'm <a href="https://github.com/Bruh9980"> Horus </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
 
 
-<img align="left" src="[https://tenor.com/id/view/genshin-impact-sandrone-cross-popping-veins-marionette-fatui-harbinger-gif-16776285422676968539](https://tenor.com/id/view/genshin-impact-sandrone-cross-popping-veins-marionette-fatui-harbinger-gif-16776285422676968539)" width="265" height="270" />
+<img align="left" src="[https://tenor.com/id/view/genshin-impact-sandrone-cross-popping-veins-marionette-fatui-harbinger-gif-16776285422676968539]" width="265" height="270" />
 
 
 <!---- <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> <i><small>About me</small></i> --->
@@ -32,7 +32,7 @@ Hi, I'm <a href="https://github.com/Bruh9980"> Horus </a>
 ```
 ```python
 > I am a Indie Game developer 💻
-> Self-taught learner  📚 - East java | Indonesian
+> I am a Self-taught learner  📚 - East java | Indonesian
 > I have a strong interest in Data management and software engineer 📝
 > Working on Deep Learning & Machine Learning 🔭
 > Learning about fullstack developement, and mobile application development 👨‍💻 
