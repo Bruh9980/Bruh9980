@@ -31,12 +31,12 @@ Hi, I'm <a href="https://github.com/Bruh9980"> Horus </a>
 > root :~ whoami 
 ```
 ```python
-> I am a Indie Game developer 💻
-> I am a Self-taught learner  📚 - East java | Indonesian
-> I have a strong interest in Data management and software engineer 📝
-> Working on Deep Learning & Software Learning 🔭
-> Learning about fullstack developement, and mobile application development 👨‍💻 
-> Interested in Full Stack Machine Learning Application development 🚩
+> I am an Indie Game Developer 💻
+> I am a Self-taught learner 📚 - East Java | Indonesia
+> Developing Games with Unity & Godot Engine 🎮
+> Creating 3D Models & Game Assets 🎨
+> Working on Computer Vision & Python Development 🔭
+> Learning Game Design, Shader Programming, & System Customization 🛠️
 
 > Committed to lifelong learning 💖
 ```
