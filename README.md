@@ -12,7 +12,7 @@ Hi, I'm <a href="https://github.com/Bruh9980"> Horus </a>
 <p align="center">
   <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&lines=Computer+Science+Student;Data+Scientist;ML+AND+DL+Enthusiast;Python+Developer;Committed+to+lifelong+learning&center=true&width=980&height=35"></a> -->
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer+Science+Student;Data+Scientist;Python+Developer;Committed+to+lifelong+learning;learn+✘+unlearn+✘+relearn" width="415" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=00FF66&size=22&center=true&vCenter=true&width=500&height=50&lines=Indie+Game+Developer+%F0%9F%8E%AE;Unity+%26+Godot+Engine+%F0%9F%94%A7;3D+Modeling+%26+Asset+Creator+%F0%9F%8E%A8;Python+%26+Software+Engineer+%F0%9F%92%BB;learn+%E2%9C%97+unlearn+%E2%9C%97+relearn" width="415" />
  
   
 </p>
