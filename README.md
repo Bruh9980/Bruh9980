@@ -41,8 +41,14 @@ Hi, I'm <a href="https://github.com/Bruh9980"> Horus </a>
 > Committed to lifelong learning 💖
 ```
 
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />  <img src="https://gpvc.arturio.dev/Bruh9980" alt="Profile views" align='right'/> <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />  <a href="https://github.com/Bruh9980/">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Game%20Development-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-3D%20%26%20Asset%20Creation-2A2A2A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-00599C?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bruh9980.Bruh9980" alt="Profile views" align="right" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> <!-- line breaker -->
 
 </br>
 
