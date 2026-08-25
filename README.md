@@ -115,7 +115,7 @@ Hi, I'm <a href="https://github.com/Bruh9980"> Horus </a>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Bruh9980&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" height="165" />
   
   <!-- Streak Stats (Alternatif Server Bebas Down) -->
-  <img src="https://github-readme-streak-stats-salesforce.vercel.app?user=Bruh9980&theme=darcula&hide_border=true&background=00000000" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bruh9980&theme=darcula&hide_border=true&background=FFFFFF00" height="165" />
 </p>
 
 <p align="center">
