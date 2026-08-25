@@ -124,7 +124,7 @@ Hi, I'm <a href="https://github.com/Bruh9980"> Horus </a>
 </table>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Bruh9980&theme=react-dark&hide_border=true&area=true)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Bruh9980&theme=react-dark&hide_border=true&area=true)
 
 
 <br>
